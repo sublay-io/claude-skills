@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "sublay-io",
+  "owner": {
+    "name": "Sublay",
+    "url": "https://sublay.io"
+  },
+  "description": "Sublay's official Claude Code plugins and skills.",
+  "plugins": [
+    {
+      "name": "sublay",
+      "source": "./",
+      "description": "Skills for building on Sublay. Includes implementation-expert: a complete, accurate map of Sublay's models, bundles, and capabilities.",
+      "homepage": "https://docs.sublay.io",
+      "keywords": ["sublay", "backend", "sdk"]
+    }
+  ]
+}

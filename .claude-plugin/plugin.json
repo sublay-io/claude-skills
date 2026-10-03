@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "sublay",
+  "displayName": "Sublay",
+  "version": "0.2.0",
+  "description": "Skills for building on Sublay — infrastructure for user-based products. Includes implementation-expert: a complete, accurate map of Sublay's models, bundles, and capabilities.",
+  "author": {
+    "name": "Sublay",
+    "url": "https://sublay.io"
+  },
+  "homepage": "https://docs.sublay.io",
+  "repository": "https://github.com/sublay-io/claude-skills",
+  "keywords": ["sublay", "backend", "sdk", "skills"],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}

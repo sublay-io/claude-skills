@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "sublay-docs": {
+      "type": "http",
+      "url": "https://docs.sublay.io/mcp"
+    }
+  }
+}
